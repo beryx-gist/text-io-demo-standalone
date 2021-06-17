@@ -1,0 +1,19 @@
+target/
+
+*.class
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+hs_err_pid*
